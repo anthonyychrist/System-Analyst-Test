@@ -4,13 +4,13 @@ ERD
 <img width="663" height="99" alt="Image" src="https://github.com/user-attachments/assets/111b1163-807f-43cf-a28c-0f705b790d43" />
 
 Activity Diagram
-![alt text](https://drive.google.com/file/d/1i14U_UMSANXlhRuN_2Q9z7RQqYyCNRoB/view)
+(https://drive.google.com/file/d/1i14U_UMSANXlhRuN_2Q9z7RQqYyCNRoB/view)
 
 Use Case Diagram
 <img width="255" height="206" alt="Image" src="https://github.com/user-attachments/assets/1280c3b6-24cb-4147-904c-0b674ddaa7d0" />
 
 Sequence Diagram
-![alt text](https://drive.google.com/file/d/1FM-UiB2jNs0HIgcNFfScIa-qjNx2SLGx/view)
+(https://drive.google.com/file/d/1FM-UiB2jNs0HIgcNFfScIa-qjNx2SLGx/view)
 
 Table Design
 | Table Name | Column Name | Data Type | Constraint | Description |
